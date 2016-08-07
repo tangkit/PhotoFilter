@@ -14,6 +14,7 @@
 		FB5E1BC81D55D4EF00EBC7BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB5E1BC61D55D4EF00EBC7BB /* LaunchScreen.storyboard */; };
 		FB5E1BD31D55D4EF00EBC7BB /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5E1BD21D55D4EF00EBC7BB /* PhotoFiltersTests.swift */; };
 		FB5E1BDE1D55D4EF00EBC7BB /* PhotoFiltersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB5E1BDD1D55D4EF00EBC7BB /* PhotoFiltersUITests.swift */; };
+		FB5E1BEC1D55D73A00EBC7BB /* Seni3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB5E1BEB1D55D73A00EBC7BB /* Seni3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FB5E1BD91D55D4EF00EBC7BB /* PhotoFiltersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB5E1BDD1D55D4EF00EBC7BB /* PhotoFiltersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersUITests.swift; sourceTree = "<group>"; };
 		FB5E1BDF1D55D4EF00EBC7BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB5E1BEB1D55D73A00EBC7BB /* Seni3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Seni3.jpg; path = ../../../../../../../Downloads/Seni3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		FB5E1BBC1D55D4EF00EBC7BB /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				FB5E1BEB1D55D73A00EBC7BB /* Seni3.jpg */,
 				FB5E1BBD1D55D4EF00EBC7BB /* AppDelegate.swift */,
 				FB5E1BBF1D55D4EF00EBC7BB /* ViewController.swift */,
 				FB5E1BC11D55D4EF00EBC7BB /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				FB5E1BC81D55D4EF00EBC7BB /* LaunchScreen.storyboard in Resources */,
 				FB5E1BC51D55D4EF00EBC7BB /* Assets.xcassets in Resources */,
+				FB5E1BEC1D55D73A00EBC7BB /* Seni3.jpg in Resources */,
 				FB5E1BC31D55D4EF00EBC7BB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
